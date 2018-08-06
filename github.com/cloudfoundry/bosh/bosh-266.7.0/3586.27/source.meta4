@@ -1,13 +1,13 @@
 <metalink xmlns="urn:ietf:params:xml:ns:metalink">
   <file name="bosh-266.7.0-ubuntu-trusty-3586.27.tgz">
-    <hash type="sha-512">d8df372cb09d2993ebf95b38970b67f18ba2d29b1ea48adcbfdc7ae8c86940294276c28b970e19acc11ef0849e13f97043c4b7a4604af3238e312e82735b6ecd</hash>
-    <hash type="sha-256">2951c163730b2fb351c3da9e0eb1db8d30c5f9758c44be8987d77b0b1dcac8d7</hash>
-    <hash type="sha-1">d3e81ea0aeabd40cae748c573f93c498027a7eae</hash>
-    <hash type="md5">8e4f1a449a8cd0befc8ab9099e23e6ff</hash>
-    <size>93430550</size>
+    <hash type="sha-512">36b56317be8f3e1b1fec5147c9f18c0d046247dc584952089f43e6834dbe3ba3997b514f9771f914652579209200725e0c26de1e9b04c5c1975628fda60488a8</hash>
+    <hash type="sha-256">9f0f7b6ac11ea3fb0e69cc7b532a5bf326f443f69b86f6fb474a38a2fe86932d</hash>
+    <hash type="sha-1">735b09a9f7fbde5dd40a9ede0b2d918b31a05c80</hash>
+    <hash type="md5">86742eb222dbee9e9dd9167f32cd51b7</hash>
+    <size>93433607</size>
     <url>https://s3-external-1.amazonaws.com/bosh-compiled-releases/bosh/266.7.0/bosh-266.7.0-ubuntu-trusty-3586.27.tgz</url>
     <version>266.7.0</version>
   </file>
   <generator>metalink-repository-resource/0.0.0</generator>
-  <published>2018-08-03T23:09:34.086581233Z</published>
+  <published>2018-08-06T17:28:10.195592239Z</published>
 </metalink>
