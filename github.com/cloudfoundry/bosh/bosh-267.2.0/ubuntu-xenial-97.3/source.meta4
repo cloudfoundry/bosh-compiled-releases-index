@@ -1,13 +1,13 @@
 <metalink xmlns="urn:ietf:params:xml:ns:metalink">
   <file name="bosh-267.2.0-ubuntu-xenial-97.3.tgz">
-    <hash type="sha-512">288e94b9ea67579534cea7b31a16538980efb522e81da3a9ff91a1eb3f3494b90560dcbd92eb78656d46e2e73ab26e22a88cfa028a43abbabeb27fe98fb4deee</hash>
-    <hash type="sha-256">0b5fe0823e24b0f8723498099cedb121b4bbbd39fc47366c462f5d4eb7f6b88f</hash>
-    <hash type="sha-1">762159ec0cdabc6fa45493415c29e192496b8031</hash>
-    <hash type="md5">2fad3d98b90c00db290229e617b86901</hash>
-    <size>94907099</size>
+    <hash type="sha-512">f4886f20784316d369dff582bc92ccd2727415feff93db147be92b25ee70ab5ba616790eb338cad9c936bb45f5285d91a2a1e5fc3f06025d58ffe070133de41f</hash>
+    <hash type="sha-256">1c225e2455aa1e7528d969b65b5fbd592e78bf4a7c311168eef6c04618775644</hash>
+    <hash type="sha-1">f6552c667c9792d1ba3eda45f3478ae4d73febba</hash>
+    <hash type="md5">244fd058493fe1328b1779d3144be055</hash>
+    <size>94902784</size>
     <url>https://s3-external-1.amazonaws.com/bosh-compiled-releases/bosh/267.2.0/bosh-267.2.0-ubuntu-xenial-97.3.tgz</url>
     <version>267.2.0</version>
   </file>
   <generator>metalink-repository-resource/0.0.0</generator>
-  <published>2018-08-07T00:19:10.648658648Z</published>
+  <published>2018-08-07T18:50:07.308650344Z</published>
 </metalink>
