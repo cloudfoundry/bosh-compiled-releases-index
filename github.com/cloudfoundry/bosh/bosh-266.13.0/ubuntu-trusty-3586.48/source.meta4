@@ -1,0 +1,13 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-266.13.0-ubuntu-trusty-3586.48.tgz">
+    <hash type="sha-512">ff8352ea7b8e7787f17f22f2557751d8a8dd257514cbce3118edec8b6ce2d11ca058d69ee39c0e781eecdac5ff3748110791c3e07dde4c66debde7485b3d882c</hash>
+    <hash type="sha-256">9948cf8c8c9c78f83e553ccb6ceec1103bcd8880c87d23e2e91fc96533618208</hash>
+    <hash type="sha-1">2c39bf915f3f12272a58f4d5669f80f567326006</hash>
+    <hash type="md5">0ba0c78ef15676ab0baffe5595947a62</hash>
+    <size>93399077</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-compiled-releases/bosh/266.13.0/bosh-266.13.0-ubuntu-trusty-3586.48.tgz</url>
+    <version>266.13.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2018-10-11T22:08:51.186514556Z</published>
+</metalink>
