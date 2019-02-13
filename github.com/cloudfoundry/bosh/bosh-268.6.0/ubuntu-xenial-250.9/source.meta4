@@ -1,0 +1,13 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-268.6.0-ubuntu-xenial-250.9.tgz">
+    <hash type="sha-512">eda09feeefc4cdc5482c731dd0d3b5973fde44fdc985d6d254bb4ef429add99fa0194d660b5dcd2fbece38449eabad220428ce8e0f9fca534bbcd6e2e4c61d80</hash>
+    <hash type="sha-256">e750b5f992c12dfe2ea6d7828a1974b4e75a1c53f7022607e1aae58f46c1f1a7</hash>
+    <hash type="sha-1">714e350e5935665bfdd64f2793cd7c35d912c138</hash>
+    <hash type="md5">32d4cfd8099a2ddf430bdb48e7817d6a</hash>
+    <size>134581609</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-compiled-releases/bosh/268.6.0/bosh-268.6.0-ubuntu-xenial-250.9.tgz</url>
+    <version>268.6.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2019-02-13T19:31:08.76324849Z</published>
+</metalink>
