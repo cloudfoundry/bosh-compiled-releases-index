@@ -1,0 +1,13 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-271.9.0-ubuntu-bionic-1.28.tgz">
+    <hash type="sha-512">837964ba4f27f8f2f74e5d6281b1cff0fc8be29baa953aeed8df283b924926948dae3798060473aab40b4c0c7b4d62c6058fc2a1e0cf2c0ceb190f208bf24ced</hash>
+    <hash type="sha-256">8b692e79a6f082a1c8f92c3d9cb46bb9b17b601d2dbd9d302eff8de4e4f4a4d9</hash>
+    <hash type="sha-1">db014ffbecfdcb907920c0be5ec4c371a86ddd6e</hash>
+    <hash type="md5">32a064619d1f1a695cdf2b0c7ef1f622</hash>
+    <size>161086029</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-compiled-releases/bosh/271.9.0/bosh-271.9.0-ubuntu-bionic-1.28.tgz</url>
+    <version>271.9.0</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2021-09-16T15:00:32.276348416Z</published>
+</metalink>
