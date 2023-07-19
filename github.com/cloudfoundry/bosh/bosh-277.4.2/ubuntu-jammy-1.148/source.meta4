@@ -1,0 +1,13 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-277.4.2-ubuntu-jammy-1.148.tgz">
+    <hash type="sha-512">aed0106f819c6b7d70d31ce2e4fe7d1e247ddc3f5e104a7a2f9486b965f2dc97e6c5ce3a0346b307f7e4a12d5c258bd06d615b05203610bf1c45c853031afb4d</hash>
+    <hash type="sha-256">92c8b56a947c3e1bd878e13a24022e544e00f5f720b8a93db2ba16aed60383ca</hash>
+    <hash type="sha-1">99c51711488e0754c01879a210b6e71df812c60b</hash>
+    <hash type="md5">1b758052792c22c727990c04b2045716</hash>
+    <size>121802435</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-compiled-releases/bosh/277.4.2/bosh-277.4.2-ubuntu-jammy-1.148.tgz</url>
+    <version>277.4.2</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2023-07-19T10:56:57.240807481Z</published>
+</metalink>
