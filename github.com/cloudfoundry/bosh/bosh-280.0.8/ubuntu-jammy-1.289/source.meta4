@@ -1,0 +1,13 @@
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+  <file name="bosh-280.0.8-ubuntu-jammy-1.289.tgz">
+    <hash type="sha-512">133ed09512ee5742a9a64e2cf180949d063efd4d9464b32ac444d4987df8390a8bc178b3734cfc445000ac2c2e155859444c3a6b1d4c98cb94abb176fc20f30c</hash>
+    <hash type="sha-256">7876277867172f754f8b8b1536450e17a7a34fcde3d7b0a5d7472e377277ed83</hash>
+    <hash type="sha-1">98f7f87b688d6531dbd05efb948d5d6242d28a25</hash>
+    <hash type="md5">70ab31a84bdebf979adef85eefdbb7e5</hash>
+    <size>129139767</size>
+    <url>https://s3-external-1.amazonaws.com/bosh-compiled-releases/bosh/280.0.8/bosh-280.0.8-ubuntu-jammy-1.289.tgz</url>
+    <version>280.0.8</version>
+  </file>
+  <generator>metalink-repository-resource/0.0.0</generator>
+  <published>2023-11-09T20:56:01.380013197Z</published>
+</metalink>
